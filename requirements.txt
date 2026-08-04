@@ -1,0 +1,11 @@
+telethon
+python-dotenv
+transformers
+peft
+bitsandbytes
+accelerate
+torch
+datasets
+trl
+# unsloth is installed separately - see README.md, its install command
+# depends on your CUDA version
