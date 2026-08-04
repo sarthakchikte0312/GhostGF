@@ -111,5 +111,5 @@ than "I was busy."
 Built for personal use. If you deploy this on a real person
 without telling them a language model sometimes replies on your behalf,
 that's between you, them, and your own conscience — but full disclosure
-tends to go over a lot better than the alternative. Use responsibly, and
+tends to go over a lot better than the alternative. Use responsibly and
 maybe also just try texting back a little faster.
