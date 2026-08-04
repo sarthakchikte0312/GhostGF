@@ -20,7 +20,7 @@ Also built for a very specific demographic: chronic late-texters. You know
 who you are — the "sorry just saw this" crowd, the read-at-11pm-reply-at-2am
 club. Now the read receipt lies for you. The model doesn't ghost, doesn't
 forget, and definitely doesn't leave someone on read for six hours because
-it got distracted by a YouTube rabbit hole.
+I got distracted by my nerdmaxxing hobbies.
 
 ## How it works
 
