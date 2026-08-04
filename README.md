@@ -108,7 +108,7 @@ than "I was busy."
 
 ## Disclaimer
 
-Built for personal/educational use. If you deploy this on a real person
+Built for personal use. If you deploy this on a real person
 without telling them a language model sometimes replies on your behalf,
 that's between you, them, and your own conscience — but full disclosure
 tends to go over a lot better than the alternative. Use responsibly, and
